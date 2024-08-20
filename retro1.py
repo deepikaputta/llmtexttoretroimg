@@ -4,7 +4,7 @@ from diffusers import StableDiffusionPipeline
 import torch
 
 # API Token setup
-API_TOKEN = "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"
+API_TOKEN = ""
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
 # Streamlit app interface
